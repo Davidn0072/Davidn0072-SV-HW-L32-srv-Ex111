@@ -1,4 +1,10 @@
 {
+  "name": "my-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "ai": "^6.0.101",
     "cors": "^2.8.6",
